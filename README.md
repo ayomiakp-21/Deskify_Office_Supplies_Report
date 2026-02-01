@@ -1,14 +1,14 @@
 # Deskify_Office_Supplies_Report
 
-# Project Goal
+## Project Goal
 
 The goal is to provide data-driven visibility into sales trends across products, regions, customer segments and shipping methods, to support practical, data-driven business decisions and performance optimization
 
-# Dataset Used
+## Dataset Used
 
 - <a href="https://github.com/ayomiakp-21/Deskify_Office_Supplies_Report/blob/main/DeskifyData.xlsx">Dataset View</a>
 
-# Interactive Dashboard
+## Interactive Dashboard
 
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiZDBmYTMzYWYtMzQ1OS00MDM5LWI1NjgtZDY5MGFkMmJmNmJjIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9">Interactive Dashboard</a>
 
